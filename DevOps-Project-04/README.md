@@ -124,4 +124,4 @@ To fulfill some of these factors, one can also use the `AWS Beanstalk` service t
 
 ***If you are planning to use this repo for learning, please hit the star. Thanks!***
 
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+#### Author by [DEVOPS INSTITUTE MUMBAI]
