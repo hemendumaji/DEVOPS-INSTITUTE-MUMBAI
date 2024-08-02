@@ -47,4 +47,4 @@ Pull requests are welcome.
 
 ## License
 
-This work is licensed under MIT license.
+This work is licensed under DEVOPS INSTITUTE MUMBAI (MIT Liscense).
