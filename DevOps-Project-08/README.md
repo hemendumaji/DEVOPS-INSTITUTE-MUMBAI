@@ -185,6 +185,6 @@ curl a06aa56b81f5741268daca84dca6b4f8-694631959.us-east-1.elb.amazonaws.com:80
 
 Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
 
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+#### Author by [DEVOPS INSTITUTE MUMBAI]
 
 Ensure to follow me on GitHub. Please star/share this repository!
