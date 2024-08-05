@@ -1,8 +1,7 @@
 # Linux Bash Scripting
 
-How do you advance your Linux skills when you are already comfortable with the basics? My solution was to come up with 10 subjects to learn and create an accompanying mini-project.
+How do you advance your Linux skills when you are already comfortable with the basics?
 
-You can read the blog post
 
 You can also find binaries under *Releases*
 
