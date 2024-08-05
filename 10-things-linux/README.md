@@ -1,4 +1,4 @@
-# 10 things Linux
+# Linux Bash Scripting
 
 How do you advance your Linux skills when you are already comfortable with the basics? My solution was to come up with 10 subjects to learn and create an accompanying mini-project.
 
