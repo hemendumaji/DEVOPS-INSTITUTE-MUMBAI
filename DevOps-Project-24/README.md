@@ -610,7 +610,7 @@ pipeline{
 
 ### Author by
 
-![](https://imgur.com/2j6Aoyl.png)
+DEVOPS INSTITUTE MUMBAI
 
 > [!Note]
 > Join Our [Telegram Community](https://t.me/prodevopsguy) || [Follow me](https://github.com/NotHarshhaa) for more DevOps Content
