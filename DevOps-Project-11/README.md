@@ -25,8 +25,8 @@ Follow these steps to deploy the Two-Tier architecture:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/NotHarshhaa/DevOps-Projects
-   cd DevOps-Projects/DevOps Project-11/](https://github.com/hemendumaji/DEVOPS-INSTITUTE-MUMBAI/tree/main/DevOps-Project-Terraform
+   git clone https://github.com/hemendumaji/DEVOPS-INSTITUTE-MUMBAI/tree/main/DevOps-Project-Terraform
+   cd DevOps-Projects/DevOps Project-Terraform/
    ```
 
 2. **Plan and Apply:**
